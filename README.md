@@ -1,11 +1,10 @@
-![bmi-calc-demo](https://user-images.githubusercontent.com/88472584/128909895-00ad5aa7-6a96-44dc-81df-1c68d4a03183.gif)
+
 # bmi-calculator-flutter
 Body Mass Index Calculator inspired by the beautiful designs made by Ruben Vaalt. It will be a multi screen app with simple functionality but full-on custom styling.
 
 I developed this mobile application using flutter.
 
-
-
+![bmi-calc-demo](https://user-images.githubusercontent.com/88472584/128909895-00ad5aa7-6a96-44dc-81df-1c68d4a03183.gif)
 
 After creating this application i learned >>
 
